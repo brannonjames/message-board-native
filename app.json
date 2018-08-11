@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "Message Board",
+    "slug": "message-board",
+    "privacy": "public",
+    "description": "A simple chat app using SocketIO, I also have a desktop version here http://message-board-client.herokuapp.com/"
+  }
+}
